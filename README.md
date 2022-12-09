@@ -1,2 +1,2 @@
 # Mogo
-BrainsCloud site Mogo
+BrainsCloud's lesson Mogo
